@@ -1,50 +1,6 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="436" height="849" alt="Captura de tela 2026-02-13 152429" src="https://github.com/user-attachments/assets/a8dc4b0a-8270-4e7a-afb8-99163b5a811e" />
+<img width="463" height="847" alt="Captura de tela 2026-02-13 152702" src="https://github.com/user-attachments/assets/0a3b973e-06e3-4bb3-9e9a-f9659cbdb44b" />
+<img width="444" height="845" alt="Captura de tela 2026-02-13 152722" src="https://github.com/user-attachments/assets/a5e8932d-cf23-4633-b913-c6e8c2e434c3" />
+<img width="426" height="848" alt="Captura de tela 2026-02-13 152734" src="https://github.com/user-attachments/assets/bf753c31-4fe2-419a-99f6-221821223f53" />
+<img width="431" height="846" alt="Captura de tela 2026-02-13 152807" src="https://github.com/user-attachments/assets/3e7dd8e5-4b01-455b-8962-979622506e36" />
+<img width="426" height="849" alt="Captura de tela 2026-02-13 152911" src="https://github.com/user-attachments/assets/5a9d506f-06e7-401a-8c4f-c51a54e3ada7" />
